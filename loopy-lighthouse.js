@@ -4,7 +4,7 @@ for( let num = 100; num <= 200; num ++){
   } else if (num % 4 === 0 && num % 3 !== 0) {
     console.log("Lighthouse");
   } else if (num % 3 === 0 && num % 4 === 0) {
-    console.log("loopylighthouse");
+    console.log("LoopyLighthouse");
   } else {
     console.log(num)
   }
