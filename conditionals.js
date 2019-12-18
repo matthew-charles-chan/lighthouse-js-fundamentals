@@ -1,5 +1,5 @@
 const raining = true;
-const temperature = -5;
+const temperature = 13;
 
 if(raining && temperature > 0){
   console.log("Don't forget your umbrella!")
